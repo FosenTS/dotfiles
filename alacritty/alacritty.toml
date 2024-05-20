@@ -1,0 +1,10 @@
+[font]
+normal.family = "Hack Nerd Font Mono"
+size = 13
+
+[window]
+padding = { x = 0, y = 0 }
+opacity = 0.8
+decorations = "full"
+dynamic_padding = true
+blur = true
